@@ -68,7 +68,7 @@ This repository tracks all historical deals for **BullRush Prop** published on P
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T08:51:43Z (auto, hourly)
+Last synced: 2026-10-29T09:04:33Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
