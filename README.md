@@ -58,4 +58,4 @@ This repository tracks all historical deals for **BullRush Prop** published on P
 
 ---
 
-Last synced: 2026-10-29T02:04:48Z (auto, hourly)
+Last synced: 2026-10-29T06:30:41Z (auto, hourly)
