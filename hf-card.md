@@ -66,21 +66,21 @@ Total deals tracked: **8**
 
 ### 2026 (2 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-09-26 | 50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/) |
-| 2026-02-10 | 50% Off Entry Fee for $5K to $50K Evaluations | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-valentines-day-50-off/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-09-26 | 50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/) |
+| 2026-02-10 | 50% Off Entry Fee for $5K to $50K Evaluations | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-valentines-day-50-off/) |
 
 ### 2025 (6 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-11 | Discount: 20% Off $5K-$25K Accounts | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-save-20-percent-small-accounts/) |
-| 2025-12-11 | Welcome Offer: 30% Off All New Accounts | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-welcome-30-off-new-accounts/) |
-| 2025-11-22 | Black Friday Sale: 50% OFF All Accounts | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-black-friday-50-off/) |
-| 2025-11-12 | $25K Challenge for $100 | Just $100 | Ended | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-25k-challenge-100-deal/) |
-| 2025-08-20 | BullRush Prop 30% Off Deal | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-30-off-welcome-deal/) |
-| 2025-07-14 | 66% Off A-Book Challenges Coupon | 66% off | Ended | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-66-off-a-book-challenges/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-11 | Discount: 20% Off $5K-$25K Accounts | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-save-20-percent-small-accounts/) |
+| 2025-12-11 | Welcome Offer: 30% Off All New Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-welcome-30-off-new-accounts/) |
+| 2025-11-22 | Black Friday Sale: 50% OFF All Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-black-friday-50-off/) |
+| 2025-11-12 | $25K Challenge for $100 | Just $100 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-25k-challenge-100-deal/) |
+| 2025-08-20 | BullRush Prop 30% Off Deal | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-30-off-welcome-deal/) |
+| 2025-07-14 | 66% Off A-Book Challenges Coupon | 66% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-66-off-a-book-challenges/) |
 
 ---
 
@@ -107,6 +107,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
