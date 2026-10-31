@@ -1,31 +1,47 @@
-# BullRush Prop - Discount Codes & Deal History
+# BullRush Prop Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-09-26, the verified BullRush Prop discount code is **7XTG8N** — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/bullrush/
+> BullRush is a multi participant trading and sports picking competition platform. Users from around the world compete in trading tournaments, sports picking competitions, and challenges for cash and other prizes.  Our trading  challenges are unique as we offer instant cash prizes to users who pass them, as well as offering the first and only prop trading firm that puts users on a path to being a verifiable A-book trader.
+>
+> — BullRush Prop, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/bullrush.com)
 
-**Verified exclusive discount code:** 7XTG8N (works any time; live rate always on prop firm page)
+- Code: 7XTG8N
+- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-09-26
+- Trustpilot: 4.2/5 (82 reviews)
+- Activate: https://propfirmdiscount.com/go/bullrush
+- Firm page: https://propfirmdiscount.com/prop-firm/bullrush/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **7XTG8N** to get **5% off** on BullRush Prop challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all BullRush Prop evaluation accounts.
+## Current BullRush Prop deal: 50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure
+
+- Published: 2026-09-26
+- Offer ends: Ended
+- Offer: 50% off
+- Scope: $5K Accounts, $10K Accounts, $25K Accounts, $50K Accounts, Evaluation Accounts
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/
+
+## BullRush Prop discount code FAQ
+
+**What is the BullRush Prop discount code?**
+
+7XTG8N. It is verified by PropFirmDiscount.com and takes up to 5% off BullRush Prop challenges and accounts.
+
+**Does the BullRush Prop discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current BullRush Prop deal?**
+
+**50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure** — published 2026-09-26. Offer ends: Ended. The offer is 50% off.
 
 ---
 
-## Latest Deal
-
-### BullRush Prop - 50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure
-
-**Published:** 2026-09-26  
-**Offer ends:** Ended  
-**Discount:** 50% off  
-**Scope:** $5K Accounts, $10K Accounts, $25K Accounts, $50K Accounts, Evaluation Accounts  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **8**
 
@@ -49,19 +65,20 @@ Total deals tracked: **8**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **BullRush Prop** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **BullRush Prop** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/bullrush/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/bullrush/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
