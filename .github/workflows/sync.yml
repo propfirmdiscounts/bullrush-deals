@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: bullrush-discount-codes
+  HF_NAMESPACE: bullrush
+  HF_REPO_NAME: bullrush-deals
   FIRM_SLUG: bullrush
   DEALSTORE_ID: 210
   FIRM_NAME: BullRush Prop
