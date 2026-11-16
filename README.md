@@ -1,6 +1,6 @@
 # BullRush Prop - Discount Codes & Deal History
 
-As of November 2026, the verified BullRush Prop discount code is 7XTG8N — 5% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified BullRush Prop discount code is 7XTG8N — 5% OFF, which can be applied on the checkout page anytime. The newest is "50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure".
 
 > BullRush is a multi participant trading and sports picking competition platform. Users from around the world compete in trading tournaments, sports picking competitions, and challenges for cash and other prizes.  Our trading  challenges are unique as we offer instant cash prizes to users who pass them, as well as offering the first and only prop trading firm that puts users on a path to being a verifiable A-book trader.
 >
@@ -11,11 +11,11 @@ As of November 2026, the verified BullRush Prop discount code is 7XTG8N — 5% O
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-26
 - Trustpilot: [4.2/5 (82 reviews)](https://www.trustpilot.com/review/bullrush.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/bullrush-deals](https://github.com/propfirmdiscounts/bullrush-deals)
-- Activate: [https://propfirmdiscount.com/go/bullrush](https://propfirmdiscount.com/go/bullrush)
-- Firm page: [https://propfirmdiscount.com/prop-firm/bullrush/](https://propfirmdiscount.com/prop-firm/bullrush/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [BullRush Prop Deals Repository](https://github.com/propfirmdiscounts/bullrush-deals)
+- Activate: [Activate BullRush Prop Discount Code](https://propfirmdiscount.com/go/bullrush)
+- Firm page: [BullRush Prop Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/bullrush/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [BullRush Prop API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current BullRush Prop deal: 50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure
 
@@ -24,7 +24,7 @@ As of November 2026, the verified BullRush Prop discount code is 7XTG8N — 5% O
 - Offer: 50% off
 - Scope: $5K Accounts, $10K Accounts, $25K Accounts, $50K Accounts, Evaluation Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/)
+- Deal page: [BullRush Prop Deal Page](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/)
 
 ## BullRush Prop discount code FAQ
 
@@ -70,9 +70,9 @@ Total deals tracked: **8**
 
 This repository mirrors every deal **BullRush Prop** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/bullrush/](https://propfirmdiscount.com/prop-firm/bullrush/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [BullRush Prop Profile](https://propfirmdiscount.com/prop-firm/bullrush/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/bullrush-deals.json`
 
@@ -115,4 +115,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
