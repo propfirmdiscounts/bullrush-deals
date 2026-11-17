@@ -1,4 +1,4 @@
-# BullRush Prop Discount Code & Deal History
+# BullRush Prop Discount Code, Deals History & Dataset
 
 As of November 2026, the verified BullRush Prop discount code is 7XTG8N — 5% OFF, which can be applied on the checkout page anytime. The newest is "50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified BullRush Prop discount code is 7XTG8N — 5% O
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-09-26
 - Trustpilot: [4.2/5 (82 reviews)](https://www.trustpilot.com/review/bullrush.com)
-- GitHub repository: [BullRush Prop Deals Repository](https://github.com/propfirmdiscounts/bullrush-deals)
+- GitHub repository: [BullRush Prop Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/bullrush-deals)
 - Activate: [Activate BullRush Prop Discount Code](https://propfirmdiscount.com/go/bullrush)
 - Firm page: [BullRush Prop Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/bullrush/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -26,7 +26,7 @@ As of November 2026, the verified BullRush Prop discount code is 7XTG8N — 5% O
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [BullRush Prop Deal Page](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/)
 
-## BullRush Prop Discount Code & Deals FAQ
+## BullRush Prop Discount Code & Deals History FAQ
 
 **What is the BullRush Prop discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## BullRush Prop Deal History
+## BullRush Prop Deals History
 
 Total deals tracked: **8**
 
@@ -66,7 +66,7 @@ Total deals tracked: **8**
 
 ---
 
-## About the BullRush Prop Deals Dataset
+## About the BullRush Prop Discount Code & Deals History Dataset
 
 This repository mirrors every deal **BullRush Prop** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -74,7 +74,7 @@ This repository mirrors every deal **BullRush Prop** has published on PropFirmDi
 - Prop firm profile: [BullRush Prop Profile](https://propfirmdiscount.com/prop-firm/bullrush/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## BullRush Prop Deal Dataset: Field Definitions
+## BullRush Prop Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

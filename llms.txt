@@ -1,4 +1,4 @@
-# BullRush Prop Discount Codes
+# BullRush Prop Discount Code & Deals History
 
 This dataset tracks historical deal observations for BullRush Prop from PropFirmDiscount.com.
 
